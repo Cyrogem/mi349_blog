@@ -27,5 +27,13 @@ p {
 
 /*This is a class*/
 .blog-post {
-    border-bottom: 1px dotted #cccccc;
+    border-bottom: 3px dotted #cccccc;
+}
+
+th {
+    text-emphasis: bold;
+}
+
+.seperator {
+    border-bottom: 2px dotted blue;
 }
