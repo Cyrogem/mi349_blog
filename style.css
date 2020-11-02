@@ -37,3 +37,22 @@ th {
 .seperator {
     border-bottom: 2px dotted blue;
 }
+
+.nav-bar {
+    background-color: lightgreen;
+    position: sticky;
+    top: 0px;
+}
+
+.img-float {
+    float: right;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.flex-layout {
+    display: flex;
+}
